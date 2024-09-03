@@ -1,0 +1,17 @@
+# DATASET OVERVIEW
+We obtained access permission from the Sweden Schizophrenia Population-Based Case-Control Exom Sequencing dataset, archived in the dbGap database under the accession ID code phs000473.v2.p2.
+
+Dataset:
+  - Data Source: dbGaP database (phs000473.v2.p2).
+
+Sample Composition:
+Total Samples: 12,380
+
+  - Controls: 6,245
+  - Cases: 6,135
+      - SCZ Cases: 4,969
+      - Bipolar Disease Cases: 1,166
+
+It comprises data for 12,380 total samples, 6,245 controls and 6,135 cases.
+The latter are further subdivided into 4,969 samples reporting a diagnosis of SCZ (Schizophrenia) and 1,166 of Bipolar disease.
+Only the SCZ cases were considered in order to work on a purely binary prediction.
