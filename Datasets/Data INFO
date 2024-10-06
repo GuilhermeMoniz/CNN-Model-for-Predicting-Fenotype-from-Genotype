@@ -1,10 +1,10 @@
-# DATASET OVERVIEW
+## DATASET OVERVIEW
 We obtained access permission from the Sweden Schizophrenia Population-Based Case-Control Exom Sequencing dataset, archived in the dbGap database under the accession ID code phs000473.v2.p2.
 
-Dataset:
+## Dataset:
   - Data Source: dbGaP database (phs000473.v2.p2).
 
-Sample Composition:
+## Sample Composition:
 Total Samples: 12,380
 
   - Controls: 6,245
